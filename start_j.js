@@ -89,7 +89,7 @@ setTimeout(() => {
   .catch(error => {
       console.error('There was a problem with the API request:', error);
   });
-},300000)
+},30000)
 
 
 
